@@ -1,7 +1,7 @@
 <h1 align="center">Omar Faruk</h1>
 
 <p align="center">
-  <a href="https://github.com/omarf3881">
+  <a href="https://github.com/omar-faruk-cybersecurity">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/omar-faruk-cybersecurity/">
