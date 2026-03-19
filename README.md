@@ -26,45 +26,22 @@ I am focused on delivering immediate value by combining **practical experience, 
 
 <br>
 
-## Core Skills
+## Skills & Tools
 
-### Security Operations
-- Alert triage
-- Log analysis
-- Incident investigation
-- Threat detection
-- Basic threat hunting
-- Incident response workflow
+| Domain                             | Tools / Technologies                     | Skills |
+|------------------------------------|------------------------------------------|---------
+| SIEM & Log Analysis                | Splunk, Microsoft Sentinel, Elastic Stack| Log ingestion, correlation, alert triage, detection analysis
+| Endpoint Monitoring                | Sysmon, Windows Event Viewer, Wazuh      | Log analysis, process tracking, persistance detection
+| Network Traffic Analysis           | Wireshark, Tcpdump, Nmap                 | Packet inspection, protocol analysis, anomaly detection, tcp/ip, dns, dhcp, http/https, firewalls
+| Threat Intelligence & IOC Analysis | VirusTotal, AbuseIPDB                    | IOC identification, enrichment, validation, correlation
+| Incident Response                  | SIEM + Logs + OSINT Tools                | Alert triage, investigation, escalation, documentation
+| Log Sources Understanding          | Sysmon, Event Viewer, SIEM Logs          | Windows logs, authentication logs, system logs, Active directory
+| Detection Engineering              | SIEM Rules (Splunk Queries, KQL Basics)  | Rule creation, use cases, alert tuning
+| MITRE ATT&CK Mapping               | MITRE ATT&CK Framework                   | TTP mapping, attack classification
+| Documentation & Reporting          | Markdown, Basic Reporting Tools          | Incident documentation, reporting communication
+| Scripting, Automation, System      | Python, Powershell, Bash, Linux, Windows | Log parsing, automation, data extraction, operating systems
 
-### Networking & Systems
-- TCP/IP
-- DNS
-- DHCP
-- HTTP/HTTPS
-- VPN
-- Firewalls
-- Windows fundamentals
-- Linux fundamentals
-- Active Directory basics
 
-### Security Tools
-- Splunk
-- Wireshark
-- Sysmon
-- Windows Event Viewer
-- VirusTotal
-- TryHackMe
-- Nmap
-- Security Onion (planned)
-- Wazuh (planned)
-
-### Scripting & Automation
-- Python
-- PowerShell basics
-- Bash basics
-- Log parsing
-- Alert enrichment
-- Basic automation workflows
 
 <br>
 
