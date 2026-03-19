@@ -30,7 +30,7 @@ I am focused on delivering immediate value by combining **practical experience, 
 
 | Domain                             | Tools / Technologies                     | Skills |
 |------------------------------------|------------------------------------------|---------
-| SIEM & Log Analysis                | Splunk, Microsoft Sentinel, Elastic Stack| Log ingestion, correlation, alert triage, detection analysis
+| SIEM & Log Analysis                | Splunk, Microsoft Sentinel, Elastic Stack, IBM QRadar| Log ingestion, correlation, alert triage, detection analysis
 | Endpoint Monitoring                | Sysmon, Windows Event Viewer, Wazuh      | Log analysis, process tracking, persistance detection
 | Network Traffic Analysis           | Wireshark, Tcpdump, Nmap                 | Packet inspection, protocol analysis, anomaly detection, tcp/ip, dns, dhcp, http/https, firewalls
 | Threat Intelligence & IOC Analysis | VirusTotal, AbuseIPDB                    | IOC identification, enrichment, validation, correlation
