@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://docs.google.com/document/d/1U9hZAxFYUHNI0Xxea9xM0JLNoZJEklIyflZEebssNYA/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+    <img src="https://img.shields.io/badge/View-Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
 
